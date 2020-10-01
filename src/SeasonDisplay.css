@@ -32,3 +32,9 @@
 .summer {
     background-color: rgb(255, 200, 98);
 }
+
+.textTitle {
+    font-size: 65px;
+    font-family: 'Sedgwick Ave Display', cursive;
+    text-decoration: underline;
+}
