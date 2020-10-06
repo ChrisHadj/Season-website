@@ -1,1 +1,1 @@
-Udemy course Modern React + Redux, 
+Detect season by IP
